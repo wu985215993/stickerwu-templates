@@ -2,7 +2,7 @@
 title: stickerwu's templates
 order: 10
 hero:
-  title: stickerwu's components demo
+  title: stickerwu's components
   desc: 📖 平时学习各种组件实现的教程demo方便开发理解
   actions:
     - text: Getting Started
