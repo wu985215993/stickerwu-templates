@@ -10,7 +10,7 @@ English | [简体中文](./README.zh-CN.md)
 
 ## ✨ Online preview
 
-https://umijs.github.io/dumi-template/
+https://wu985215993.github.io/stickerwu-templates/
 
 ## 📒 Catalog Introduction
 
