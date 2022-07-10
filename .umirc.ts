@@ -22,4 +22,14 @@ export default defineConfig({
     },
   ],
   // more config: https://d.umijs.org/config
+  extraBabelPlugins: [
+    [
+      'babel-plugin-import',
+      {
+        libraryName: 'antd',
+        libraryDirectory: 'es',
+        style: true,
+      },
+    ],
+  ],
 });

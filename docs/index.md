@@ -6,7 +6,7 @@ hero:
   desc: 📖 平时学习各种组件实现的教程demo方便开发理解
   actions:
     - text: Getting Started
-      link: /components/foo
+      link: /demos/dnd
 features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
     title: Out of the box
